@@ -5,6 +5,7 @@ const Result = (item) => {
     return (
         <div>
             <h2>{text} {result}</h2>
+            <p>Made in GEEKS</p>
         </div>
     );
 }
